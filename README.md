@@ -60,7 +60,7 @@ POST /users
 └── go.sum
 ```
 
-### Usage of the structure
+### Utilização da estrutura
 
 1. `app/controllers`: Esta pasta contém os controladores responsáveis ​​por manipular solicitações HTTP e definir o comportamento do aplicativo. Neste exemplo, temos um arquivo `user_controller.go`.
 2. `app/models`: Esta pasta contém as definições de modelo para seu aplicativo. Aqui, temos um arquivo `user_model.go`.
